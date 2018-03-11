@@ -2,7 +2,7 @@
 //  FlappyBirdUITests.swift
 //  FlappyBirdUITests
 //
-//  Created by 坂東明信 on 2018/03/04.
+//  Created by on 2018/03/04.
 //  Copyright © 2018年 asplate. All rights reserved.
 //
 
